@@ -10,7 +10,7 @@ Each project demonstrates different aspects of the data science workflow — fro
 
 - Each folder/notebook represents a standalone project.  
 - Projects include **datasets, analysis, visualizations, and predictive models**.  
-- Technologies used: `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Scikit-learn`, and other ML/AI libraries.  
+- Technologies used: `SQL`,`Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Scikit-learn`, and other ML/AI libraries.  
 
 ---
 
